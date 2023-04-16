@@ -10,6 +10,6 @@ https://t.me/queeredbotnet got locked
 Max power: 1.8TB UDP with 2.100 bots only due a GitHub, Microsoft, GitLab exploit
 Max botcount: 40-45k using IPCams and routers
 
-# QUEERED BOTNET IS -BACK- https://t.me/sorabotnet current power is 20k bots 1.2t at the time im writing this text
+# QUEERED BOTNET IS -BACK- https://t.me/ current power is 20k bots 1.2t at the time im writing this text
 
 queered botnet is down forever
